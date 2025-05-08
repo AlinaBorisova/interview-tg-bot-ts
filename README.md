@@ -18,10 +18,10 @@ Telegram Bot API Token
 
 Клонируйте репозиторий:
 
-`git clone https://github.com/AlinaBorisova/interview-tg-bot-ts.git
-
-cd interview-tg-bot-ts`
-
+````
+    git clone https://github.com/AlinaBorisova/interview-tg-bot-ts.git
+    cd interview-tg-bot-ts
+```
 
 Установите зависимости:
 
