@@ -19,7 +19,7 @@ Telegram Bot API Token
 Клонируйте репозиторий:
 
 `git clone https://github.com/AlinaBorisova/interview-tg-bot-ts.git
-<br>
+
 cd interview-tg-bot-ts`
 
 
